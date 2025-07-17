@@ -1,0 +1,7 @@
+Package: dummy-test-package
+Version: 1.0
+Depends: 
+Architecture: all
+Maintainer: Your Name <your.email@example.com>
+Section: base
+Description: A dummy package for testing opkg feeds. It does nothing useful.
